@@ -6,4 +6,4 @@ this repo was made to analyze the data, the data was in a good clean shape, just
 
 the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
-<img src="https://github.com/MohamedSuwan/leaked-FB-data-analysis/blob/main/Jordan%20FB%20power%20BI%20visuals.png?eaw=true" width="100" height="100">
+<img src="https://github.com/MohamedSuwan/leaked-FB-data-analysis/blob/main/Jordan%20FB%20power%20BI%20visuals.png?eaw=true"  height="200">
