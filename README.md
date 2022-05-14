@@ -6,4 +6,4 @@ this repo was made to analyze the data, the data was in a good clean shape, just
 
 the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
-![alt image](powerBIvisuals.png) 
+![alt image](https://github.com/MohamedSuwan/leaked-FB-data-analysis/blob/main/poweBIvisuals.png) 
